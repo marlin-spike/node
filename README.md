@@ -2,6 +2,11 @@
 
 
 
+####  NOTE:
+for practical no 6 : *npm install upper-case*
+for practical no 8 : *npm install formidable*
+
+
 
 
 
